@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Simple Voice Input",
+  "version": "1.0",
+  "description": "Einfache Spracheingabe für Englisch, Deutsch und Bosnisch",
+  "permissions": [
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
