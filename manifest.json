@@ -4,7 +4,8 @@
   "version": "1.0",
   "description": "Einfache Spracheingabe für Englisch, Deutsch und Bosnisch",
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "audioCapture"
   ],
   "action": {
     "default_popup": "popup.html",
